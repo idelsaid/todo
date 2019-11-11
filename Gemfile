@@ -66,10 +66,3 @@ end
 gem 'jquery-rails'
 
 
-
-
-
-
-
-
-
